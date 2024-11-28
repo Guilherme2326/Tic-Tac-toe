@@ -9,7 +9,6 @@ screen_width = 800
 screen_height = 600
 screen = pygame.display.set_mode((screen_width, screen_height))
 screen.fill((255, 255, 255))
-
 #Load The images
 #(pygame.image.load(os.path.join('imgs', 'pipe.png')))
 
